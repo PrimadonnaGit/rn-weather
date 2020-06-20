@@ -23,6 +23,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "Nomad Coder React Native Lecture - Weather APP",
+    "githubUrl": "https://github.com/PrimadonnaGit/rn-weather"
   }
 }
